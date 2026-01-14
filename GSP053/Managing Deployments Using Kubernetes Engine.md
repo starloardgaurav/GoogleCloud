@@ -50,10 +50,11 @@ production-style deployment workflows.
 
 ---
 
-## ▶️ Run the Script in Google Cloud Shell
+## ▶️ Run the Script (Cloud Shell)
 
-> ⚠️ **Recommended:** Execute only inside **Google Cloud Shell**
+Execute the following commands in **Google Cloud Shell**:
 
 ```bash
+curl -LO https://raw.githubusercontent.com/starloardgaurav/GoogleCloud/main/GSP053/gsp053.sh
 chmod +x gsp053.sh
 ./gsp053.sh
